@@ -1,0 +1,6 @@
+usr/local/bin/mandike-qt usr/bin
+share/pixmaps/mandike32.xpm usr/share/pixmaps
+share/pixmaps/mandike16.xpm usr/share/pixmaps
+share/pixmaps/mandike128.png usr/share/pixmaps
+debian/mandike-qt.desktop usr/share/applications
+debian/mandike-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Mandike 
+Comment=Mandike P2P Cryptocurrency
+Comment[fr]=Mandike, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mandike, eşten eşe kriptografik sanal para birimi
+Exec=mandike-qt %u
+Terminal=false
+Type=Application
+Icon=mandike128
+MimeType=x-scheme-handler/mandike;
+Categories=Office;Finance;
+StartupWMClass=mandike-qt
