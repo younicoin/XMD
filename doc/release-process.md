@@ -6,7 +6,7 @@ Release Process
 ### Before every release candidate
 
 * Update translations (ping Fuzzbawls on Discord) see [translation_process.md](https://github.com/PIVX-Project/PIVX/blob/master/doc/translation_process.md#synchronising-translations).
-* Update manpages, see [gen-manpages.sh](https://github.com/MandikeBF/Mandike/blob/master/contrib/devtools/README.md#gen-manpagessh).
+* Update manpages, see [gen-manpages.sh](https://github.com/mandikechain/XMD/blob/master/contrib/devtools/README.md#gen-manpagessh).
 * Update release candidate version in `configure.ac` (`CLIENT_VERSION_RC`)
 
 ### Before every major and minor release
@@ -50,9 +50,9 @@ Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
     git clone https://github.com/pivx-project/gitian.sigs.git
-    git clone https://github.com/MandikeBF/Mandike-detached-sigs.git
+    git clone https://github.com/mandikechain/Mandike-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/MandikeBF/Mandike.git
+    git clone https://github.com/mandikechain/XMD.git
 
 ### PIVX maintainers/release engineers, suggestion for writing release notes
 

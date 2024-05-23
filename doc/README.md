@@ -28,7 +28,7 @@ Drag Mandike-Qt to your applications folder, and then run Mandike-Qt.
 
 * See the documentation at the [Mandike Wiki](https://github.com/mandike)
 for help and more information.
-* Join our Discord server [Discord Server](https://discord.gg/uTar2Sd)
+* Join our Discord server [Discord Server](https://discord.gg/uYzDSz5ZMb)
 
 Building
 ---------------------
@@ -56,7 +56,7 @@ The Mandike repo's [root README](/README.md) contains relevant information on th
 
 ### Resources
 * Discuss on the [Mandike Homepage](https://mandike.io/).
-* Join the [Mandike Discord](https://discord.gg/uTar2Sd).
+* Join the [Mandike Discord](https://discord.gg/uYzDSz5ZMb).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

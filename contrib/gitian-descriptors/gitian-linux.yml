@@ -33,7 +33,7 @@ packages:
 - "ca-certificates"
 - "python3"
 remotes:
-- "url": "https://github.com/MandikeBF/Mandike.git"
+- "url": "https://github.com/mandikechain/XMD.git"
   "dir": "pivx"
 files: []
 script: |

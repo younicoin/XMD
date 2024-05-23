@@ -1,11 +1,11 @@
-![Example-Logo](https://sappcoin.com/wp-content/uploads/2021/05/Mandike-logo-transparent.png)
+![Example-Logo](https://explorer.mandike.io/img/logo.png)
 
 # Mandike Masternode Setup Guide
 ***
 ## Required
 1) **XMD collateral value at current block** ([consult the collateral table](../../README.md#rewards-breakdown))
-2) **Local Wallet https://github.com/MandikeBF/Mandike/releases/latest**
-3) **VPS with UBUNTU 18.04** (it is possible to work on other versions but it is not tested)
+2) **Local Wallet https://github.com/mandikechain/XMD/releases/latest**
+3) **VPS with UBUNTU 22.04** (it is possible to work on other versions but it is not tested)
 4) **Putty https://www.putty.org/**
 5) **Text editor on your local pc to save data for copy/paste**
 ***
@@ -32,7 +32,7 @@ You will then receive your private key, save it in a txt to use it later.
 * Once logged in your vps, *copy/paste* each line one by one with *Enter*
 
 ```
-wget -q https://raw.githubusercontent.com/MandikeBF/Mandike/master/contrib/masternodesetup/masternodesetup.sh
+wget -q https://raw.githubusercontent.com/mandikechain/XMD/master/contrib/masternodesetup/masternodesetup.sh
 ```
 
 ```

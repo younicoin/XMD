@@ -44,7 +44,7 @@ related to the DNS seed operation.
 If these expectations cannot be satisfied the operator should
 discontinue providing services and contact the active Mandike
 Core development team as well as posting on the
-[Mandike Discord](https://discord.gg/uTar2Sd).
+[Mandike Discord](https://discord.gg/uYzDSz5ZMb).
 
 Behavior outside of these expectations may be reasonable in some
 situations but should be discussed in public in advance.
